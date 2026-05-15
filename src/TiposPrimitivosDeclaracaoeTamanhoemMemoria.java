@@ -10,9 +10,10 @@ public class TiposPrimitivosDeclaracaoeTamanhoemMemoria {
     short idadeShort = 29;
     boolean verdadeiro = true;
     boolean falso = false;
-    char caracteres = 'B';
+    char caracteres = 66;
 
     System.out.println("A idade é: " + idadeShort);
+    System.out.println(caracteres);
 
   }
 
