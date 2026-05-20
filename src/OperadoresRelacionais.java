@@ -4,7 +4,7 @@ public class OperadoresRelacionais {
 
     //%
 
-    int resto = 20 % 7;
+    int resto = 21 % 7;
     System.out.println(resto);
 
     int n1 = 30;
