@@ -12,7 +12,9 @@ public class OperadoresRelacionais {
 
     // <> <= >= == !=
 
-    boolean MaiorqueVinte = 30 < 40;
-    System.out.println(MaiorqueVinte);
+    boolean DezMaiorqueVinte = 10 < 20;
+    boolean DezMenorqueVinte = 15 > 25;
+    System.out.println(DezMaiorqueVinte);
+    System.out.println(DezMenorqueVinte);
   }
 }
