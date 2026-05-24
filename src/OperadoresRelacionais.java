@@ -9,6 +9,7 @@ public class OperadoresRelacionais {
 
     int n1 = 30;
     int n2 = 40;
+    System.out.println(n1 * n2);
 
     // <> <= >= == !=
 
