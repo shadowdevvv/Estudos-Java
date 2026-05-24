@@ -7,7 +7,10 @@ public class OperadoresLogicos {
     double salario2 = 3.331;
     boolean DentroDaLeiMaiorQueTrinta = idade > 30 && salario1 >= 4.612;
     boolean DentroDaLeiMenorQueTrinta = idade < 30 && salario2 <= 3.331;
-    //boolean idade2 = 45 > 55;
+
+    System.out.println("Dentro da Lei Maior Que Trinta: " +DentroDaLeiMaiorQueTrinta);
+    System.out.println("Dentro da Lei Menor Que Trinta: " +DentroDaLeiMenorQueTrinta);
+
 
     //System.out.println(immigrant);
     //System.out.println("Idade: " + idade + " anos");
