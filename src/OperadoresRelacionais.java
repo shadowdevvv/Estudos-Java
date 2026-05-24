@@ -15,7 +15,9 @@ public class OperadoresRelacionais {
 
     boolean DezMaiorqueVinte = 10 < 20;
     boolean DezMenorqueVinte = 15 > 25;
+    boolean Igual = 20==20;
     System.out.println(DezMaiorqueVinte);
     System.out.println(DezMenorqueVinte);
+    System.out.println(Igual);
   }
 }
